@@ -1,4 +1,4 @@
-name: Run Email Daily
+name: Run sender.py
 
 on:
   schedule:
