@@ -2,7 +2,7 @@ name: Run Email Daily
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # 6 AM UTC (11 AM Pakistan)
+    - cron: '45 16 * * *'  # 6 AM UTC (11 AM Pakistan)
   workflow_dispatch:
 
 jobs:
