@@ -2,7 +2,7 @@ name: Run sender.py
 
 on:
   schedule:
-    - cron: '48 16 * * *'  # 6 AM UTC (11 AM Pakistan)
+    - cron: '55 16 * * *'  # 6 AM UTC (11 AM Pakistan)
   workflow_dispatch:
 
 jobs:
